@@ -25,7 +25,7 @@ def play_mp3(file_path):
 def rms(frame):
     return np.sqrt(np.mean(np.square(frame), axis=0))
 
-def record_until_silence(threshold=0.03, fs=44100, chunk_size=2048, max_silence=2):
+def record_until_silence(threshold=0.01, fs=44100, chunk_size=1048, max_silence=5):
     print("Begin met opnemen... Spreek nu.")
     recorded_frames = []
     silent_frames = 0
