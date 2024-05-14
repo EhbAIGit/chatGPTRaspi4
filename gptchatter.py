@@ -10,6 +10,10 @@ import time
 
 
 
+device_info = sd.query_devices(3)
+print(f"Device info: {device_info}")
+
+
 def play_mp3(file_path):
     pygame.init()
     pygame.mixer.init()
@@ -48,7 +52,7 @@ def record_until_silence(threshold=0.01, fs=44100, chunk_size=1024, max_silence=
             silent_frames = 0
         recorded_frames.append(indata.copy())
 
-    with sd.InputStream(callback=callback, device=1, dtype='float32', channels=1, samplerate=fs, blocksize=chunk_size):
+    with sd.InputStream(callback=callback, dtype='float32', channels=1, samplerate=fs, blocksize=chunk_size):
         print("Opname gestart. Wacht op geluid...")
         sd.sleep(5000)  # Wacht maximaal 10 seconden voor geluid
 
@@ -87,8 +91,8 @@ while True:
     # Opname starten
     
 
-    user_input = input("Your message: ")
-    '''
+    #user_input = input("Your message: ")
+    
     input("Druk op Enter om verder te gaan")
     audio_file_path = record_until_silence()
     with open(audio_file_path, "rb") as audio_file:
@@ -102,7 +106,7 @@ while True:
     user_input = user_input.text
     
     #user_input = input("Your message:")
-    '''
+    
 
     if user_input.lower() == 'exit':
         print("Exiting chat...")
