@@ -1,0 +1,17 @@
+pip install openai --break-system-packages
+pip install sounddevice --break-system-packages
+pip install sounddevice==0.2.1 --break-system-packages
+---------------------
+Install Portaudio
+sudo apt-get remove libportaudio2
+sudo apt-get install libasound2-dev
+git clone -b alsapatch https://github.com/gglockner/portaudio
+cd portaudio
+./configure && make
+sudo make install
+sudo ldconfig
+cd ..
+-------------------------
+sudo pip install pyaudio --break-system-packages
+
+pip install scipy --break-system-packages
