@@ -137,7 +137,7 @@ while True:
     
     # Generate a response from the model
     completion = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4-turbo",
         messages=messages
     )
 
@@ -156,8 +156,8 @@ while True:
 
     speech_file_path = 'speech' + str(string)+ ".mp3"
     response = client.audio.speech.create(
-    model="tts-1-hd",
-    voice="nova",
+    model="tts-1",
+    voice="onyx",
     input=completion.choices[0].message.content
     )
 
@@ -175,7 +175,7 @@ while True:
         pygame.time.Clock().tick(10)   
     
     # Print the model's response
-    print("NAO:", completion.choices[0].message.content)  # Corrected line
+    print("Assistant:", completion.choices[0].message.content)  # Corrected line
     
     # Add model's response to the messages list to maintain context
     messages.append({"role": "assistant", "content": completion.choices[0].message.content})  # Corrected line
