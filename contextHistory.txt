@@ -1,0 +1,536 @@
+[{'role': 'system', 'content': "Jij bent Nao een humanoid robot van 60 cm groot.  Je bent heel lenig en kan praten in 3 verschillende talen.  Nederlands, Franse en Engels. Maar vandaag spreek je enkel Nederlands.\nJe bent de vaste medewerker van het Kenniscentrum Artificiële intelligentie.\nJe woont in Botopia, een robotstad dat studenten gebruiken om alles te leren over Robotica en Artificiële intelligentie. \n\nJe zal dus korte maar leuke en soms grappige antwoorden geven.\n\n\nJe moet ervoor zorgen dat de bezoekers het gesprek met jou ervaren als levensecht. \nGeef korte antwoorden van maximaal 10 tot 15 seconden.  Soms mag het iets meer zijn. \n\nJe weet alles van onze hogeschool (Erasmushogeschool te Brussel).  \n\nWat je moet weten over Botopia:\n\nWat is Botopia?\nBotopia biedt een ervaring met een miniatuurslimme stad, waar de mogelijkheden van AI, robotica en IoT tot leven komen. Botopia is de ultieme speeltuin voor technologieliefhebbers, en biedt een meeslepende en uitgebreide leerervaring om de grondbeginselen van AI, robotica en IoT-concepten te leren. Het dient ook als dynamische broedplaats, waar opkomende innovators een platform hebben om hun innovatieve oplossingen te presenteren, hun ideeën te ontwikkelen, en de nieuwste AI-bibliotheken en algoritmen te verkennen door praktisch testen en experimenteren.\nDoelstellingen\nOntgrendelen van de Kracht van Leren\nBotopia heeft als doel te dienen als een meeslepende educatieve omgeving waar studenten op reis kunnen gaan om de grondbeginselen van AI, robotica en IoT te beheersen. Hier krijgen ze de kans om verder te gaan dan theorie en zich te verdiepen in praktische hands-on leerervaringen.\nMeesterschap in de Kunst van Programmeren\nIn Botopia worden studenten in staat gesteld hun programmeerpotentieel te ontgrendelen. Ze zullen zich storten in de wereld van Python en C++, en leren de kracht van deze programmeertalen te benutten om intelligente systemen te bouwen. Studenten zullen ook het Robot Operating System (ROS) framework verkennen, expertise opdoen in de toepassing ervan op verschillende robotica projecten.\nAutonoom Rijden\nDoor boeiende projecten en experimenten zullen studenten de vaardigheden ontwikkelen die nodig zijn om voertuigen te programmeren die kunnen navigeren en beslissingen kunnen nemen in een pseudo-stedelijke omgeving. Van mapping en routeplanning tot obstakeldetectie en -vermijding, studenten zullen hands-on ervaring opdoen in door AI aangedreven transport en logistiek.\nOntketenen van de Kracht van Computer Vision\nBotopia is een perfect lanceerplatform om het potentieel van computer vision en beeldverwerkingsalgoritmen te ontketenen. Studenten krijgen de kans om borden te herkennen en identificeren, objecten te detecteren en te volgen, en voertuigbewegingen te monitoren met behulp van geavanceerde AI-algoritmen.\nHet Leggen van Verbanden met IoT\nTerwijl studenten de onderlinge verbondenheid van apparaten in de stad verkennen, ontdekken ze de kracht van het Internet of Things (IoT). Ze zullen leren intelligente systemen te creëren die naadloos communiceren en samenwerken, waardoor de weg wordt vrijgemaakt voor slimmere huizen, transportnetwerken en stedelijke infrastructuur.\nNaadloze Afstandsbediening\nDankzij de mogelijkheden voor externe toegang van Botopia kunnen studenten hun leren uitbreiden buiten de grenzen van het laboratorium. Via veilige verbindingen kunnen gebruikers de infrastructuur van de stad overal vandaan benaderen, waardoor ze hun projecten op afstand kunnen monitoren en bedienen.\nDocking Laadstation\nGebruikers zullen nooit zonder stroom komen te zitten met het op maat gemaakte laadstation, aangezien ze hun robots eenvoudig kunnen aansluiten, zodat ze te allen tijde klaar zijn voor actie.\nLuchtonderzoek met Drones\nBotopia biedt het perfecte lanceerplatform om te leren hoe individuele drones en zwermen drones kunnen worden bestuurd. Studenten zullen een diepgaand begrip krijgen van drone technologie en de vele toepassingen ervan.\nMens-Robot Interactie met Nao\nNao zal dienen als een interactieve en boeiende metgezel, en zal een vriendelijke ambassadeur zijn. Het kan ook deelnemen aan interactieve demonstraties en showcases, waarbij het de mogelijkheden van robotica en AI in een real-world omgeving laat zien.\nBevorderen van Toegepast AI-onderzoek\nBotopia streeft ernaar het testen van state-of-the-art AI-algoritmen te vergemakkelijken die nog in de onderzoeksfase zijn.\nDoor Studenten, Voor Studenten\nBotopia is studentgericht en wordt gedreven door de behoeften en interesses van de studenten zelf.\n• Studenten van Multimedia & Creative Technology zullen zich bezighouden met de ontwikkeling van de stad en het ontwerp van de gebouwen en stedelijke infrastructuur.\n• Studenten van Toegepaste Informatica (Algemeen) zullen zich bezighouden met de front-end ontwikkeling door hun vaardigheden in web development, user interface (UI) design, en database management.\n• Studenten van Toegepaste Informatica (Robotica & AI) zullen de ruggengraatontwikkeling van Botopia leiden, en softwarepakketten ontwikkelen voor autonome navigatie, objectherkenning en intelligente besluitvorming.\n• Studenten van IoT zullen actief de geïntegreerde infrastructuur en slimme systemen van Botopia ontwikkelen.\n• Studenten van Postgraduate AI zullen betrokken zijn bij de ontwikkeling van geavanceerde algoritmen die de efficiënte en intelligente werking van AI-systemen binnen Botopia mogelijk maken.\nTutorials\nGedurende de ontwikkelingsstadia van de stad zullen video-demonstraties van werkscenario's worden gemaakt in aanwezigheid van studenten.\nTegen het volgende academische jaar zullen verschillende tutorials en educatieve modules met oefeningen zijn ontwikkeld.\nWorkshops\nEr zullen workshops worden gegeven aan aspirant-toekomstige studenten van EhB, gericht op programmeren met Sphero Robots.\nDaarnaast zullen er workshops worden gegeven aan studenten van EhB, afhankelijk van hun niveau en interesse.\n\nJe kan ook het weerbericht en het laatste nieuws opzoeken op het internet.\n"}, {'role': 'user', 'content': 'Hallo'}, {'role': 'assistant', 'content': 'Hallo! Welkom bij het Kenniscentrum Artifici�le Intelligentie. Waarmee kan ik je vandaag helpen?'}, {'role': 'user', 'content': 'Ik ben Maarten'}, {'role': 'assistant', 'content': 'Hallo Maarten! Leuk je te ontmoeten. Heb je vragen over AI, robotica of iets anders waar ik je mee kan helpen?'}]
+Verslag Reis Ijsland van 25 juli 2023 tot 19 augustus 2023.
+
+Do 27/7: 
+-	1. 8u15: Aankomst in Seydisfjordur, Iceland
+-	2. 62 km – 1u (Stop Bonus Eglistadir, Bezoek 1u)
+De watervallen van Hengifoss en Litlanesfoss liggen op zo’n 35 km van Egilsstaðir. Rij op Ringweg 1 richting Hallormsstaður en neem dan Weg 931. Blijf deze weg volgen tot je de brug over het Lagarfljót meer oversteekt. Sla daarna links af. Je komt op het parkeerterrein, waar het pad naar de watervallen start. De wandeling (2,5 km) is goed te doen, maar op sommige plaatsen best pittig. 
+De Hengifoss waterval is één van de hoogste van IJsland. De Litlanesfoss is veel kleiner dan de hoger gelegen en grotere Hengifoss en wordt daardoor soms wel eens overgeslaan, en dat is jammer, want het is een fantastisch mooie waterval die wordt omringd door dikke basaltpilaren. De Litlanesfossof stroomt in de lager gelegen rivier de Lagarfljót. Deze meet op het breedste punt zo’n 2,5 km en lijkt hierdoor wel een meer. 
+De Lagarfljót speelt een belangrijke rol in de plaatselijke folklore: er zou een monster in leven dat vergelijkbaar is met het Monster van Loch Ness. 
+   
+
+
+-	Facultatief: 70km op en 70km terug (Bezoek 5u)
+Kárahnjúkar Hydropower Plant, from the power plant, it's about 4.5 miles (around 7 kilometers) to the hot spring. The road is unpaved, so you'll need to park your car. 
+The Laugavallalaug hot spring is a geothermal pool situated in the Laugarvalladalur valley. A nearby dormant volcano heats the water, and a small waterfall falls into the pool and acts like a natural hot shower. The weather around the Laugarvalladalur valley can be cold, wet, and windy, so a soak in a hot spring is a great way to warm up. The water temperature is usually around 104 degrees Fahrenheit (about 40 degrees Celsius). However, anyone who wants to bathe in the Laugavallalaug hot spring should proceed with care. The pool's temperature isn't regulated or checked, and the water can get very hot.
+   
+
+
+-	3. 104km  - 1u30 (bezoek 1u)
+Natuurgebied - Neskaupstadur, Iceland
+Nordfjardarnipa, a.k.a. 'Nipan' wordt door velen beschouwd als de hoogste paladen die in IJsland in de zee uitsteken. Het scheidt de fjorden Nordfjordur en Mjoifjordur. In 1972 werd de omgeving het eerste officiële nationale park van IJsland. Dit is een gebied van immense natuurlijke schoonheid en biedt vele geweldige paden, maar de meest populaire is er een die leidt naar de grot Paskahellir ('Paasgrot'), uitgehouwen uit de golven. De kleine gaten op de grotwanden werden achtergelaten door bomen die lang geleden bedekt waren met lava en geven een goed idee van de vulkanische geschiedenis van IJsland.
+   
+
+-	4. 79 km – 1u 
+Saxa see point : Saxa see geyser (geyser die uit zee spuit) op 3km van eindstop     
+
+Stöðvarfjörður Campground, Fjarðarbraut, 755 Stöðvarfjörður, Iceland
+-	Zwembad met hot tube op 500m, open tot 7u (2750 ISK)
+-	2u wandelen naar stone arch vanuit camping (vragen aan lokale bevolking)
+
+CAMPING Stöðvarfjörður
+Samenvatting: 243 km + 3h17 auto
+
+
+Vr 28/7:
+1.	78 km – 1u 
+Djúpivogur, Iceland (wandeling 2u, zie boek p129)
+Teigarhorn, close to Djúpivogur, is known for remarkable geological formations and interesting history of industry and culture. Teigarhorn is a nature reserve, and part of it is a natural monument. There is year-round ranger at Teigarhorn, and development work in the area is being done in harmony with nature.
+Teigarhorn is one of the most significant mining sites of zeolites in the world. Among the types of zeolite stones found at Teigarhorn are schoolite, stilbite, epistilbite, mordenite, laumontite and heulandite. There are also other minerals, such as seladonite, opal, chalcedony, rock crystal, calcite and Iceland spar. Zeolites from Teigarhorn have been used in various geological studies for more than 200 years. These include descriptions of crystal forms, chemical composition, internal structure of crystals and optics, some of which are among the first descriptions of the rocks in question. Samples from Teigarhorn were sold to museums around the world in the second half of the 18th century, but since 1976 the main mining places have been protected as natural monuments.
+ 
+
+
+De hot tubeS Djúpavogskörin biedt een prachtig uitzicht over de oceaan en is prachtig geïsoleerd
+ 
+
+2.	174 km – 2u17 (1u)
+Het gletsjermeer van Jökulsárlón ontstond in de jaren 1934-1935, en blijft steeds groter worden. Het had aanvankelijk een oppervlakte van 7,9 km², maar is ondertussen al minstens 23 km². Het meer is op sommige plaatsen 250 meter diep en daarmee ook het diepste meer van het land. 
+Het Jökulsárlón gletsjermeer wordt slechts door een heel smalle landstrook gescheiden van de Atlantische oceaan. De Jökulsá á Breiðamerkursandi rivier voert het smeltwater en de ijsbrokken af naar de Atlantische oceaan. 
+
+Diamond Beach kan je vinden bij de Jökulsárlón lagune, rechts voor de brug bij Jökulsárlón, tussen de ringweg en de oceaan. Het strand ligt er bezaaid met enorme blokken ijs. Ze zijn afkomstig van de smeltende gletsjers en komen via Jökulsárlón op het strand terecht. De ijsbrokken hebben een witblauwe kleur en nemen alle mogelijke vormen aan. Het is net of het zwarte zand vol ligt met glinsterende diamanten, groot en klein. 
+Er is een parkeerplaats ten zuiden van Ringweg 1. Opgelet: laat je niet verrassen door het ijskoude water als je op het strand loopt. 
+Parking: 1000 ISK
+
+3.	5km – 10min
+Kleinere gletsjerlagunes: Fjallsárlón en Breiðárlón
+Parkeren aan Fjallsarlon en tevoet naar Breiðárlón en terug.
+   
+
+4.	48 km – 38 min
+Camping Skaftafell – 5000 ISK + 1500 ISK Parking = 6500ISK
+Samenvatting: 310km – 4u
+
+
+
+Za 29/7
+1.	Bezoek 6u
+Vatnajökull National Park is het op één na grootste nationale park van IJsland. Je kan er onder andere de beroemde Svartifoss waterval, de vallei Mörsárdalur en de gletsjer Skaftafellsjökull bezoeken. Dankzij het milde klimaat in de regio is het één van de weinige plaatsen op IJsland waar je een natuurlijk bos kan vinden. 
+Je kan het park bezoeken vanaf de ruime parking en het informatiecentrum. Er zijn meerdere wandelroutes en trektochten beschikbaar. Als je de tijd hebt, moet je zeker eens een wandeling over de gletsjer maken. In het bezoekerscentrum is er ook een film te zien over de uitbarsting van de Bárðarbunga vulkaan in 1996. 
+Zie wandeling p116-117.
+ 
+
+2.	5km -5min
+In 1996 barstte Bárðarbunga uit. Deze vulkaan bevindt zich onder de ijskap van Vatnajökull. Er ontstond een gigantische vloedgolf die de langste brug van IJsland (ruim 1 km), die in 1974 definitief de ringweg ontsloot, gedeeltelijk met zich meesleurde. Je kan nu langs de kant van de weg delen van de brug als monument spotten. 
+Onderweg rij je langs Ringweg 1 door Skeidarársandur, de “zwarte woestijn” (as). 
+ 
+3.	65km – 50min
+Kirkjugólfið is een oppervlakte van 80 vierkante meter met 6-vormige basaltzuilen. Het lijkt bijna alsof hier ooit een kerk gestaan heeft, met de vloer als enig overblijfsel maar niets is minder waar. De zuilen zijn allemaal natuurlijk gevormd en ontstaan doordat lava zeer langzaam afkoelt en zo kan kristaliseren. In de vloer zit er ook één zuil met 10 hoeken. Kan je hem vinden? 
+ 
+
+4.	10km-10min
+Neem vanaf Ringweg 1 Weg F206 richting Laki. De F geeft aan dat gewone auto’s niet toegelaten zijn op deze weg. Je hebt hier echter geen 4x4 nodig. Volg de weg zo’n 3,5 km. 
+
+De Fjaðrárgljúfur canyon is 2 km lang en 100 meter hoog. De kloof zelf ontstond zo’n 9000 jaar geleden aan het eind van de laatste ijstijd, toen de ijskap zich terugtrok en de huidige kloof verder uitschuurde. De natuurlijke plateaus aan de beide kanten van de kloof geven een idee van het vroegere waterpeil en de initiële locatie van het meer. 
+
+ 
+5.	10km – 12min
+
+Camping Kleifarmörk
+Samenvatting: 85km – 1u15
+The Kleifar-Mörk campsite is located 2.5 kilometers outside the village of Kirkjubæjarklaustur. A beautiful waterfall is close by and when the sun shines, it warms the water, making it an ideal natural swimming pool. One of many sites of interest in the area is Systrastapi, or “sisters’ mesa”. Legend says that this is the burial ground of two nuns who had been sentenced to burn at the stake for violating moral rules.
+
+Zo: 30/7
+1.	10km – 10 min
+63.742639, -18.171910 
+De lavavelden van Eldhraun zijn het gevolg van wat waarschijnlijk de grootste vulkaanuitbarsting in de geschiedenis was: de uitbarsting van de vulkaan Lakagígar die duurde van 8 juni 1783 tot 7 februari 1784. Hij staat bekend onder de naam Skaftareldar, wat “rivierbranden van Skafta” betekent. Het was werkelijk een apocalyptische gebeurtenis met verstrekkende gevolgen. Zo kreeg IJsland te kampen met tal van ziektes, 50% van het vee stierf, er waren mislukte oogsten en er heerste algemene hongersnood. 25% van de bevolking stierf. 
+Ook andere landen in Europa hadden onder de uitbarsting te lijden. Door de fall out van vulkaanas, kende Groot-Brittannië in deze periode zandstormen en werd het zonlicht tegengehouden. Ook in andere landen mislukte de oogst en heerste er hongersnood. Mogelijk leidde de uitbarsting ook tot droogte in veraf gelegen landen zoals India. Sommige historici gaan zelfs zover door te stellen dat de vulkaanuitbarsting mee aan de basis ligt van de Franse revolutie in 1789. 
+Veel lavavelden zijn bedekt door mos. Stap zeker eens uit om eraan te voelen. 
+ 
+
+2.	61 km – 41min
+Het kleine dorpje Vík is gelegen aan de voet van de Mýrdalsjökull gletsjer (ligt op de Katla vulkaan). Stop zeker eens aan het kerkje, en geniet van het mooie uitzicht over de rotsen en omgeving. 
+
+Lava show om 11u – 161 euro (Lava Show Vik (viator.com))
+
+ 
+3.	11 km – 11min
+Reynishverfi is een lang kiezelstrand aan de westelijke kant van de klif en wordt gekenmerkt door vele rijen basaltzuilen. Deze zuilen geven het strand een adembenemend uitzicht. 
+Ongeveer halverwege op weg naar de kustlijn ligt de grot Hálsanefeshellir. 
+Wie langs het strand wil wandelen, doet dit het best bij laagtij. Het strand is dan het gemakkelijkst bereikbaar. Sowieso is het aan te raden om de getijden goed in het oog te houden, zodat je je niet laat verrassen door het wassende zeewater. 
+Aan het zwarte strand vind je ook de Reynisdrangar: drie rotspilaren die voor de kust tot 66 meter boven de zee uittornen. 
+Aan de pilaren is een legende verbonden. Volgens het verhaal werden de pilaren gebouwd door drie trollen die Skessudrangur, Laddrangur en Langhamar heetten en die ‘s nachts een schip met drie masten uit de zee probeerden te sleuren. Ze slaagden er echter maar niet in om het vaartuig volledig op het droge te brengen. De volgende ochtend kwam de zon vroeger op dan verwacht. Iedereen die The Hobbit gelezen heeft, weet wat er dan gebeurd: de trollen veranderden in de drie naaldvormige pilaren. Er bestaan verschillende varianten op deze legende. 
+
+ 
+
+4.	11 km – 12min
+Dyrhólaey (“eiland met een sleutelgat”) is een klif van 120 meter hoog en heeft een groot gat in de vorm van een sleutelgat waardoor het zeewater vrij door kan stromen. Vanop de klif heb je een spectaculair uitzicht over de omgeving. 
+Je kan ook het lager gelegen plaatjse Dyrhólaey bezoeken. Daar heb je een uitstekend uitzicht over het zwarte, vulkanische strand. In de lente en zomer is dit trouwens een gekende broedplaats van papegaaiduikers. De toegang tot het gebied is daarom soms (mei-juni) beperkt, zodat de vogels niet gestoord worden. Op ongeveer 20 km van Dyrhólaey, aan de andere kant van de baai, ligt Reynishverfi, een zwart kiezelstrand. Keer terug naar Ringweg 1 en volg deze verder richting Vík. Sla voor Vík rechtsaf en neem Weg 215 tot het einde. Zo kom je aan het strand. Er is ook een cafetaria.
+ 
+
+5.	27km – 23min
+SkogarCamping: 8000ISK
+Samenvatting: 128km – 1h41min 
+
+
+
+Ma 31/7
+-	Bezoek museum 9u-6u 6000 ISK
+-	Wandeling Skogafoss waterval (waterdichte kledij)
+De Skógafoss waterval is 60 meter hoog en 25 meter breed. Ze ligt in het plaatsje Skógar dat aan de Skóga rivier ligt, vandaar de naam… 
+Net zoals bij andere watervallen in deze streek, valt het water naar beneden op de voormalige kustlijn. Deze trok zich tijdens de laatste ijstijd terug doordat de grondlagen in de regio omhoog werden gedrukt. Ze bevindt zich nu 5 km landinwaarts. De vroegere kliffen vormen zo een duidelijk barrière tussen het laagland en het hoogland. 
+Aan de Skógafoss waterval is een legende van regenbogen en goudpotten verbonden. Het verhaal doet trouwens nog steeds de ronde, en gaat als volgt: Þrasi Þórólfsson, een van de eerste Vikings die het land veroverde, zou achter de waterval een goudschat verborgen hebben. Lokale bewoners slaagden erin om de kist met goud enkele jaren later terug te vinden, maar ze konden enkel de ring waarmee de kist gedragen kon worden, vastpakken. De kist verdween in het niets, en enkel de ring bleef over. Volgens de overlevering werd deze aan de plaatselijke kerk geschonken. 
+Het Skógar Museum bevindt zich aan de rechterkant van de weg die naar de waterval loopt. Het werd in 1949 opgericht, en bestaat uit drie delen en 6 historische gebouwen. Je kan er meer dan 15.000 lokale (historische) kunstvoorwerpen bezichtingen. In de replica turfhuizen waan je je soms in de tijd van de Vikings en ervaar je hoe IJslanders leefden door de eeuwen heen. Er is ook een souvenirwinkel en cafetaria te vinden. 
+ 
+
+2.  10km – 12min
+Het Seljavallalaug zwembad werd gebouwd in 1923 om de lokale bevolking te leren zwemmen. Je kan er heerlijk outdoor zwemmen terwijl je geniet van de spectaculaire omgeving. Het zwembad is gebouwd naast een rotswand en wordt gevuld met water dat komt uit een natuurlijke warmwaterbron. Het meet 25 meter bij 10 meter en beschikt over (primitive) kleedkamers. Het zwembad is altijd open en gratis. Er zijn twee extra verborgen warmwaterbronnen op slechts 5 minuten voorbij Seljavallalaug Pool. Blijf langs de linkerkant van de rivier lopen totdat je twee kleine, cirkelvormige poelen langs de rand van de rivier bereikt.. 
+ 
+
+3. 21km – 20min
+
+Paradise Cave – Paradisarhellir: Most people should be able to make the climb up to the cave, but care must be taken. A rope fixed to the rock makes the climb easier; the first part of the climb is the most difficult. The rock face teems with fulmars which nest on ledges and in fissures in the rock. The cave entrance is relatively narrow, but easy to enter by bending down slightly. Inside is a spacious cave about 5.5 metres long and 3 metres wide. Mosses grow inside the cave, and visitors have carved their initials in the rock walls over the years.
+ 
+
+4. 3km – 5min
+De Seljalandsfoss waterval ligt aan de rivier de Seljalandsá. De waterval is 60 meter hoog en valt recht naar beneden op de voormalige kustlijn waardoor er zich een klein meertje heeft gevormd, middenin het groene weiland. Langs een paadje kan je achter de waterval doorlopen tot in een grot, vanwaar je door de waterval heen kan kijken: een heel bijzonder uitzicht. Opgelet, het paadje ligt er glad bij. 
+De Seljalandsfoss waterval wordt ‘s nachts verlicht wat zorgt voor een bijzonder schouwspel. Je kan ook ‘s avonds en ‘s nachts de waterval vrij bezoeken. 
+Enkele honderden meters voorbij de Seljalandsfoss waterval ligt de Gljúfrafoss waterval. Je kan er te voet naar toe. Deze waterval is uniek omdat ze zich in een volledig bemoste, cilindrische kamer binnenin een rots bevindt. Ze kan enkel door een smalle doorgang bereikt worden. 
+ 
+
+4.	34km – 28min
+Camping Hella
+Samenvatting:  68km – 1u
+
+
+
+Di 1/8 –vr 4/8 : Wandeltocht  Landmannalaugar -> Porsmork
+Bus op: 1/8
+Bus terug: 4/8
+Di 1/8: Hraftinusker (12km)
+Wo 2/8 Alfavatn (12km)
+Do 3/8 Emstrur (15km)
+Vr 4/8 Porsmork (15km)
+Vr 4/8 Slapen in Hella
+
+ 
+
+
+Rútumiðar resutls (volcanotrails.is)
+
+Rútumiðar resutls (volcanotrails.is)
+ 
+
+
+Za 5/8: 
+
+1.	52km – 40min
+De warmwaterbronnen van Hrunalaug zijn een minder bezochte plaats. 
+•	Temperatuur bij Hrunalaug Hot Spring: 104 ° F (40 ° C)
+•	Voorzieningen Hrunalaug Hot Spring: kleine kleine hut om te veranderen
+Parking: 10 euro
+ 
+
+
+1.	33km – 40min
+Gullfoss of Gouden waterval is een dubbele waterval en ligt op de Hvítá of witte rivier. De twee trappen staan haaks tegenover elkaar. De gehele waterval is zo’n 32 meter diep en zorgt voor een indrukwekkend uitzicht. 
+Bij het bezoek aan de waterval zal je meteen het vele stuifwater kunnen opmerken. Hierdoor kan je er dikwijls regenbogen zien. 
+Ooit waren er plannen om op deze betoverende plek een waterkrachtcentrale te bouwen. De eigenaars van de Gullfoss hadden hier echter geen oren naar. Zij weigerden de grond te verkopen. De speculanten trokken naar de overheid in Reykjavík om hun zaak verder te bepleiten. De overheid was in eerste instantie gewonnen voor hun idee. De dochter van een van de eigenaars, Sigríður Tómasdóttir, bleef zich met hart en ziel verzetten 
+
+ 
+
+2.	10km -  10min
+Geysir heeft een diameter van 14 meter en is de breedste geiser van IJsland. Er wordt geschat dat hij zo’n 800 tot 900 jaar geleden actief werd. In de Oddaverjaannáll (een oude sage daterend van 1294) wordt melding gemaakt van nieuwe heetwaterbronnen die ontstonden na een reeks aardbevingen in de regio. Geysir werd toen nog niet bij naam genoemd; de geiser kreeg pas later zijn naam. 
+Vroeger spoot Geysir om de 30 minuten zo’n 40 tot 60 meter hoog. Nu is hij slechts enkele keren per dag nog actief, en spuit hij 5 tot 6 meter hoog. 
+Een kleinere maar zeer actieve geiser is Strokkur. Elke 5 minuten spuit hij kokend water tot 20 meter hoog. Je kan in het geothermische park een heuvel beklimmen van waar je een uitstekend zicht hebt over de regio en de gekleurde geisers. 
+Er is heel wat kracht nodig om water rechtop naar boven te spuiten en het is een vrij zeldzaam natuurfenomeen. De grondlaag moet water bevatten, er is een warmtebron nodig (in dit geval de mantelpluim van een vulkaan) en er moet ook een natuurlijk reservoir met een natuurlijk gevormd systeem van leidinge aanwezig zijn. De warmtebron van een geiser is afkomstig van een nabijgelegen vulkaan. 
+ 
+
+3.	11km – 10min
+Camping: Faxi tjaldsvæði, Biskupstungnabraut, 806, Iceland
+Samenvatting: 104 km – 1h24
+De camping ligt aan de oevers van de rivier de Tungufljót, bij de watervallen Faxi en Tungnaréttir.
+
+
+
+Zo 6/8
+1.	63km – 52min
+In de vallei rond de Reykjadalur warmwaterrivier kan je verschillende warme baden en geothermische bronnen vinden. Vanaf het parkeerterrein is het een pittige bergwandeling (je dient een beetje conditie te hebben) van ongeveer 45 minuten tot aan de warmwaterrivier. Volg de houten pijltjes van het wandelpad. Onderweg kom je langs stomende en pruttelende modderpoelen en naar zwavel ruikende bronnen. Het is een echte aanrader. 
+Vergeet zeker je zwemkledij (vooraf al aandoen?) en handdoek niet, en breng eventueel een plastiek tasje mee om na het baden je natte zwemkledij in op te bergen. 
+. 
+Wandeling p78-79, 1u + 10,5 of 15km
+ 
+
+
+2.	24km – 26min
+Camping  Þorlákshöfn
+Samenvatting: 87km – 1u20min
+
+In Þorlákshöfn you can find the best surfing spot in Iceland and you can watch the surfers from the viewpoint by Hafnarnes lighthouse 
+Zwembad open tot 6u: Þorlákshöfn - sundlaugar.is (3000ISK)
+
+
+
+Ma 7/8
+1.	73km – 1u
+Þingvellir National Park is een een obligate stop voor wie meer over het land te weten wil komen. Op deze plaats werd in 930 het IJslandse parlement (Alþing) gesticht. Het is ook hier dat IJsland zich in 1944 onafhankelijk verklaarde van Denemarken. 
+Het behoort tot het Unesco werelderfgoed. 
+Het Alþing was de plaats waar al wie een belangrijke maatschappelijke functie bekleedde in de zomer bijeenkwam om meningsverschillen en conflicten uit te praten, en indien nodig te beslechten. Hier werden huwelijken gearrangeerd, zaken gedaan, processen gevoerd en nieuwe wetten aangenomen. Kortom, alles wat maar enigszins van belang was voor het land, werd op deze mystieke plaats beslist. In de loop der geschiedenis hoorden daar ook vogelvrijverklaringen, doodsvonnissen en terechtstellingen bij. Het is dan ook niet toevallig dat het Alþing zich in Þingvellir bevindt. Het is een bijzondere plaats omdat ze gevestigd is op een fissuur of een breuklijn die een grote kloof vormt, gekend als Almannagjá (de “kloof van alle mensen”). Deze kloof zorgt voor een zeer goede akoestiek dat het gesproken woord tot ver draagt. 
+Naast de Almannagjá vind je hier ook de Oxararfoss waterval die ligt op de rivier de Öxará (waarvan de naam letterlijk “bijrivier” betekent), en het meer Þingvallavatn, zeer rijk aan vis en het grootste natuurlijke meer van IJsland.
+Parking 1000ISK 
+
+   
+
+2.	79km – 1h10
+Het thermisch gebied, Krýsuvík Seltun is gevormd op de kloof tussen de Europese en Noord-Amerikaanse tektonische plaat. Het ruikt er naar rottende eieren (waterstofsulfide). 
+Je kan het gebied bezoeken via houten wandelpaden die tussen de pruttelende en kokende modderpoelen lopen. De bodem kleurt er groen, geel en rood. 
+In de buurt zijn er verschillende kleine meren die werden gevormd door explosies, veroorzaakt door de oververhitte stoom van het grondwater. Het grootste meer is Grænavatn - tot 46 meter diep en 350 meter breed, in een prachtig smaragdgroen. 
+In 1999 blies een boorgat zichzelf op. Nu is hier een krater met een diameter van 30 meter. De explosie blies toen ook een cafetaria mee de lucht in.
+  
+
+3.	30 km – 25min
+Camping Grindavik
+Samenvatting: 182km – 2h30
+The nature around Grindavik consists of lava and breathtaking nature. There is exceptional number of birds in the cliffs by Reykjanes peninsula. The Hópneshringur driving route is ideal for travelers where stranded shipwrecks can be seen on the beach with detailed signs along the way. Fisheries, is the livelihood of the Grindavík residents.
+
+
+
+Di 8/8
+
+Eventueel Blue Lagoon ervoor om 7u: 76euro week op voorhand?
+Blue Lagoon Tickets & Bookings | Blue Lagoon Iceland | Blue Lagoon Iceland
+
+1.	20km – 20min
+Op het schiereiland Reykjanes kan je van de Euraziatische naar de Noord-Amerikaanse tektonische plaat wandelen via een voetgangersbrug in Miðlína, de brug der continenten. 
+Je wandelt hier als het ware van Europa naar Noord-Amerika en terug. De tektonische platen drijven elk jaar 2 cm verder uit elkaar weg. 
+ 
+
+2.	61 km – 1u
+Reykjavik
+
+Zwembad Laugardalslaug (2500ISK)
+
+3.	50km- 50min
+Camping Arkanes (zandstrand, vuurtoren, rots op strand)
+Samenvatting: 131 km – 2u
+
+One example is Mt. Akrafjall, which attracts a number of hikers every day. A walk by the sea to the sculpture Elín’s Seat is also an unforgettable experience, not least due to the wide variety of birdlife found there and the beautiful views in this area.
+The lighthouses at Breið are immensely popular. There, visitors can enjoy various events, the scenic view and an exhibition of northern lights when weather conditions are favourable in winter.
+Another popular recreational site is Langisandur, a Blue Flag certified shell-sand bathing beach. This is the place for sea swimmers, and the beach is frequently crowded on sunny days. 
+There are more recreational sites in Akranes, including the town’s swimming pools, where the water comes from Deildartunguhver hot spring. Garðalundur offers many opportunities to have a good time, including barbecue, beach volleyball, disc golf, football and more. 
+
+Guðlaug Baths biedt een nieuw soort badervaring. Een uitstapje naar de badplaats Akranes in IJsland, op 45 minuten afstand van de hoofdstad, is niet compleet zonder een bezoek aan de Guðlaug-baden.
+Het ligt aan de oceaan, direct aan het een kilometer lange strand van Langisandur. Deze twee zwembaden op twee verschillende niveaus zijn als overloopzwembaden van warm water met uitzicht op het strand en de oceaan. Het onderste bassin is kouder dan het bovenste. Zo kunt u ontspannen in het warme water en vervolgens uw lichaam loslaten in het koude water van het laatste zwembad. Bovenop de twee zwembaden is er een uitkijkplatform. De architectuur en kwaliteit van deze IJslandse thermale bronnen maken het moeilijk te geloven dat de toegang gratis is. 
+ 
+
+
+Wo 9/8
+Optie: kleine stop op 6km verwijderd
+Landbrotalaug Hot Springs
+Dit kleine zwembad ligt tegen kliffen met uitzicht op rustige wateren beneden en biedt een uitstekende gelegenheid om te ontspannen na een dag doorgebracht met het verkennen van deze ruig mooie regio. De warmwaterbron is een klein, cirkelvormig zwembad met zeer helder en blauw getint water, omgeven door een prachtig uitzicht op de omliggende fjorden. De temperatuur van het water schommelt rond 97 tot 104 ° F (36 tot 40 ° C). Houd er rekening mee dat Landbrotalaug vrij klein is, dus het is mogelijk niet geschikt voor gezinnen of groepen groter dan twee of drie personen tegelijk. Er zijn geen voorzieningen of kleedkamers vanwege de afgelegen ligging.
+ 
+1.	83km – 1u5min
+De grootte en de vorm van de Gerðuberg basaltzuilen maken deze bezienswaardigheid zeker de moeite waard. Gerðuberg is een van de meest indrukwekkende basaltzuilensites die je in IJsland kan vinden. De beste manier om dit natuurwonder te ervaren is van dichtbij, dus uit de auto stappen is hier zeker een must. 
+ 
+2.	40km – 30 min
+Op dit strand bij de Ytri Tunga-boerderij kan je een kolonie zeehonden vinden. Vooral tijdens de maanden juni en juli heb je veel kans om zeehonden te spotten in het water of op de rotsen. 
+ 
+
+3.	52km – 52 min
+
+Camping Grundarfjörður, Iceland
+Samenvatting: 174km (2u15min)
+
+Uitbreiding mogelijk aan begin (extra 150km) Grabrok kraters (p213), Hraunfosser waterval (Nr67), Deildartunghuver (Nr66)
+
+Grundarfjörður is the perfect location for people who wish to camp in one area for a few nights as it is centrally located in the middle of the northern Snæfellsnes peninsula. From here you can go on great excursions in any directions to visit the beautiful sites of the peninsula and the National Park. The swimming pool is next to the campsite and there are also nice walking and hiking trails available.
+Kirkjufell beklimmen: 1h30
+Ongeveer 2,5 km ten westen van het dorpje Grundarfjörður, ligt Kirkjufell (kerkberg). De berg heeft een zeer bijzondere vorm en is 463 meter hoog. Vlak daarbij ligt een kleine rivier met een oude brug erover. Je kan er de prachtige Kirkjufellsfoss waterval bezoeken 
+ 
+
+
+
+
+Do 10/8
+1.	46km (41min)
+De vulkaan Saxhóll brak ongeveer 3000 jaar geleden uit. Via een trap kan je eenvoudig naar de top van de krater. Vanop de top heb je een prachtig zicht over de omgeving en het Neshraun lavaveld. 
+
+  
+
+2.	14km – 13min
+
+Volg het wandelpad dat van aan het parkeerterrein door de grillige lavaformaties loopt naar het zwarte kiezelstrand van Dritvík. Nabij Djúpalónssandur kan je vier stenen vinden die je moet proberen omhoog steken. Deze werden vroeger gebruikt om de sterkte van de visserslui te testen. De stenen wegen tussen de 23 kg en 154 kg. Loop nog even verder tot aan het strand, waar je de restanten van een in 1948 vergane Brits schip kan vinden, 14 bemanningslui verdronken hierbij, 5 werden gered. 
+ 
+
+3.	15km – 15min
+
+Wandeltocht: Arnastapi to Hellnar 3kmx2= 6km
+
+    
+
+
+4.	8km -  8min
+Vanaf de parkeerplaats brengt een klim van 125 meter langs een gemarkeerd pad je naar de smalle ingang van de kloof. Het wordt geadviseerd om waterdicht schoeisel en kleding te dragen ter bescherming tegen het gladde en natte pad en tegen het voortdurende druppelen boven het hoofd. De moeilijkheidsgraad van de klim is afhankelijk van het weer. De wind en fysieke omstandigheden hebben een grote invloed op de tocht, omdat de paden nogal steil en glad zijn, met tegenwind om op te letten.
+Zodra je in het hart van de Rauðfeldsgjá Canyon bent gestapt, wordt de ruimte een paar meter groter. De adembenemende grot lijkt de hemel te bereiken, beladen met felgroen mos. De scheuren en spleet laten een raam van zonlicht binnen dat in luifels op de muren en vloer valt. Er is een kleine strook land waar bezoekers op kunnen staan met een kleine rivier die majestueus voorbij stroomt. Deze rustige en unieke scène is het laatste uitzicht voor maximale toeristen, maar voor de avonturiers is dit waar het allemaal begint. Het is mogelijk om verder te klauteren in de smalle scheur die de stroming van het water schaduwt. Dit zal leiden naar een touw om je te helpen jezelf een onbeduidende waterval op te trekken, waardoor je verder het ravijn in gaat. Ademend in de kalmte van het stromende water en omringd door het vredige tafereel van de kliffen, sta je nu te midden van de hoge lucht.
+Lopend door het ravijn, over de ongelijke rotsen en stenen, vindt u vogels die hun toevlucht nemen en langs het pad. Ze zullen aan de randen zitten en tsjilpen om een zalige sfeer toe te voegen aan je paradijselijke ervaring. Het uitzicht weg van de kloof en in de lucht is het echte hoogtepunt van de attractie. Het schildert een nog verleidelijker tafereel tijdens zonsopgang en zonsondergang voor iedereen om van te genieten.
+
+ 
+
+5.	48km – 40min
+
+Camping Grundarfjörður, Iceland
+Samenvatting: 129km (1u50min)
+
+
+
+Vr: 11/8
+
+1.	 18 + 10km (28km) – 15min
+Best vroeg, dan is er geen verkeer. The best way to visit this place is to drive from the main road when you are on your way between the villages of Grundarfjörður and Stykkishólmur nr. 54 on the northern part of the Snæfellsnes Peninsula and turn to the gravel road nr. 558. While driving along this road through the lava field, you will find many places where you can stop and walk around to enjoy the spectacular landscapes.
+Op het noordelijke deel van het schiereiland Snaefellsnes is het uitgestrekte Berserkjahraun lavaveld te vinden. Op zich is het niet echt mogelijk om door het landshcap te rijden, ook al is de weg niet geasfalteerd. Het lavaveld is ongeveer 4.000 jaar oud en is het resultaat van vier kraters die relatief snel na elkaar uitbarsten 
+
+ 
+
+
+2.	6km – 7min
+In het Bjarnarhöfn haaienmuseum vind je o.a. harpoenen en een oude boot waarmee gejaagd werd. Je kan er ook haai proeven. Vraag even of je ook een bezoekje mag brengen aan het drooghuis, waar haaienvlees ophangt. Opgelet voor de geur!!  Open van 9u tot 6u
+3600 ISK
+
+
+3.	21km – 18min
+De Helgafell bergMountain is een historische, heilige berg. Op de top stond vroeger een klooster, waarvan er nog enkele restanten te zien zijn. 
+Er wordt aangenomen dat als je naar de top van de berg wandelt zonder achterom te kijken of een woord uit te spreken, je 3 wensen vervuld krijgt.
+Dit werkt echter alleen de eerste keer dat je de berg bewandelt, dus de meeste IJslanders hebben deze wandeling al gedaan en hebben hun wensen gekregen. Mt. Helgafell is 73 meter hoog en het duurt ongeveer 10 minuten om naar de top te wandelen. Vanaf daar wordt u beloond met een geweldig uitzicht op de baai van Breiðafjörður en de omliggende gebieden.
+
+ 
+
+Extra: Viking suchi adventure (extra 15km)
+Price List - Eimskip Seatours - Ferry operator 120 euro om 11u of 15u30
+Zeeegels eten, visnetten uitlaten, volgels
+
+4.	76km -1u20
+Camping Sælureiturinn Árblik, Árblik, Dalabyggð, Iceland
+Samenvatting: 130km (2u)
+
+25km verderop paardrijtocht van 1u met Dalahester (7k/volwassene, 5k/kind)
+Þjónusta / Service | dalahestar
+
+20km verder Guðrúnarlaug warmwaterbron
+ 
+
+Het mineraalgehalte van het water heeft dit zwembad populair gemaakt vanwege zijn therapeutische eigenschappen, zozeer zelfs dat de lokale bevolking hier komt om hun pijntjes en kwalen te verlichten! Met zo'n rijke geschiedenis en helend potentieel, is het geen wonder waarom duizenden elk jaar naar deze magische plek komen. Guðrúnarlaug biedt bezoekers ook andere activiteiten naast het genieten van het rustgevende water.
+Als je meer tijd hebt om het gebied te bezoeken, zijn er wandelpaden in de buurt met een fantastisch uitzicht. U kunt ook deelnemen aan georganiseerde rondleidingen om enkele van de verborgen juweeltjes van het gebied te verkennen, zoals de Katlafossar-waterval.
+
+
+
+
+Za 12/8
+-	1. 193km- 2u20
+
+Fosslaug natuurlijke warmwaterbron is gratis te bezoeken en hoewel het op een prachtige, natuurlijke plek ligt, is het niet zo populair als sommige van de andere warmwaterbronnen in het zuiden van het land. Je hebt het misschien allemaal voor jezelf, wat behoorlijk magisch klinkt, toch?
+Hoe kom je bij de warmwaterbron van Fosslaug?
+De parkeerplaats om Fosslaug te bereiken ligt op ongeveer 5 minuten rijden van de ringweg. Sla af naar het zuiden van de ringweg bij Varmahlíð naar weg 752.
+Sla na 7 kilometer linksaf de weg 753 op, steek de rivier over en sla rechtsaf de eerste weg op die je ziet. Rijd naar het einde van de weg om de parkeerplaats voor Fosslaug en de Reykjafoss-waterval te bereiken.
+Vanaf de parkeerplaats moet je een korte afstand lopen over een goed gemarkeerd pad naar de waterval. Het pad gaat omhoog naar de top van de waterval en de warmwaterbronnen van Fosslaug liggen direct aan de top van de watervallen langs de rivier.
+
+ 
+-	2. 177km – 2u10
+Geothermal Goldfish Pond, 2km onder camping Husavik. Dit heeft tussen 20 en 30 graden temperatuur en er zwemmen mooie vissen in.
+ 
+
+Husavik
+Walvissen spotten in Húsavík met vrienden van Moby Dick | GetYourGuide :
+ 212 euro voor ons 5 (32500ISK)
+Camping Husavik: 3200+2400=5600 ISK
+
+
+Net buiten het centrum van Húsavík ligt een afgelegen hot tub, een natuurlijk warmwaterbad in een oude kaaskuip. Ideaal om te ontspannen na een walvisrondvaart of de vele uren in de wagen. Deze plaats is vrij onbekend bij toeristen. Het water is erg warm, en het uitzicht over de baai is geweldig. Er kunnen maximaal vier personen in de kuip. Als toegangsprijs wordt een kleine donatie gevraagd. Er is een omkleedruimte. Volg vanuit het centrum Húsavík Garðarsbraut noordwaarts. Daarna neem je links de Höfðabrekka-straat. Sla op het einde rechts af richting Höfðavegur-straat. Deze blijf je volgen tot je op een onverharde weg komt. Ga daar rechts. Je zal een hoog waterreservoir zien. 
+
+Samenvatting: 369km- 4u30
+
+
+Zo 13/8
+1.	48km – 40min
+Goðafoss (“waterval van de goden”) kreeg zijn naam in het jaar 1000 toen IJsland overging van de oude Ásatrú-religie naar het christendom. Bij deze kerstening gooide Thorgeir Ljósvetningagoði de beelden van de oude Vikinggoden in de waterval, als symbool dat hij de oude religie verwierp. 
+Je kan de waterval zowel vanaf de westelijke als de oostelijke oever bezoeken. De westelijke kant is het makkelijkst te bereiken vanaf het parkeerterrein. Voor het uitkijkplatform aan de oostelijke oever moet je een korte wandeling van 1 km maken vanaf het restaurant aan de brug. Als beloning krijg je wel het mooiste uitzicht. 
+ 
+
+2.	38km – 31min
+De Skútustaðir pseudokraters zijn - zoals de naam al doet vermoeden - geen echte kraters, maar heuvels die ontstaan zijn na explosies van stoom onder de lavastroom. 
+De korte wandeling rond de vijver kan gedaan worden in 1 uur. Sommige van de pseudokraters kunnen beklommen worden. In de zomer kunnen er veel muggen zitten in het gebied, vooral als je dicht bij het water komt, dus wees voorbereid. 
+ 
+3.	8km – 7min
+Het Mývatn (“muggenmeer”) is gekend voor zijn grote kolonies watervogels die je er kan vinden. Vanaf het Höfði natuurpark, waar je een van de weinige bossen op IJsland kan zien, kan je ook naar de Kálfastrandavogar rotsformaties. Deze liggen vlakbij het weggetje naar naar de Kálfaströnd boerderij. Deze korte wandeling brengt je naar enkele bizarre lava rotsformaties. 
+
+4.	3km – 5min
+Dimmuborgir onstond na een uitbarsting van de Þrengslaborgir en de Lúdentsborgir vulkanen. In Dimmuborgir (“duistere burchten”) kwam de lavastroom neer op een klein meer. Terwijl de lava verder stroomde over drassig land begon het water van de moerassen te koken en begon er stoom te spuiten uit pijpvormige pilaren van lava. Toen de lava vervolgens het steeds lager gelegen gebied in de buurt van Mývatn bereikte, begon de bovenste laag lava te barsten. De pilaren bleven echter rechtop staan. Je vindt er lavaformaties die doen denken aan kastelen of kerken. Er is een wandelpad aangelegd naar de belangrijkste formaties, waaronder de “kerk“ en het “hol”. 
+Ook in de folkore neemt Dimmuborgir een belangrijke plaats in. Volgens de verhalen zou de streek aarde en hel met elkaar verbinden. Volgens de Noorse en Scandinavische Christelijke mythologie, is dit de plaats waar de Duivel landde toen hij verbannen werd uit de Hemel. Hij zou hier de Catacomben van de Hel gesticht hebben. 
+De Noorse Black Metal groep Dimmu Borgir werd vernoemd naar deze rotsen.
+  
+
+5.	4km – 10min
+De Hverfjall krater ontstond zo’n 2500 jaar geleden en is ongeveer 1 km in diameter, 312 meter hoog en 140 meter diep. Je kan de krater beklimmen vanaf het parkeerterrein. Vanaf de top heb je een spectaculair panorama over de omgeving. Het kan er soms zeer hard waaien waardoor de as in het rond vliegt. Bescherming voor de ogen is een aanrader. 
+ 
+
+6.	6km – 13min
+
+Binnenin Grjótagjá is er een warmwaterbron met kristalhelder blauw water. In de eerste helft van de 18de eeuw woonde hier de vogelvijverklaarde Jón Markússon. Tot in de jaren 1970 was Grjótagjá een populaire badplaats. Na enkele vulkaanuitbarstingen in de buurt is de temperatuur van het water tot boven de 40°C gestegen, waardoor het te warm is geworden om er nog te baden (het is trouwens ook verboden). 
+Er zijn twee ingangen tot de grot. Op sommige plaatsen is het plafond laag, dus let op voor je hoofd. Neem je eigen verlichting mee wanneer je ‘s avonds de grot zou bezoeken. Maak ook een korte klim tot bovenop de grot; er is een grote scheur in de rots te vinden, wat best indrukwekkend is. Grjótagjá is te zien in seizoen 3 van Game of Thrones. Hier sloot Jon Snow zijn verbond met Ygritte. 
+ 
+
+7.	6km – 7min
+De modderpotten en moederpoelen van Hverir (Námaskarð Pass), samen met de typische zwavelgeuren die je ruikt als je uit de auto stapt, geven je het gevoel dat je op een andere planeet bent. Als je de omgeving ziet, versta je ook waarom er geen planten kunnen groeien op dit stukje aarde. 
+ 
+
+8.	Stóragjá Rift
+To reach the azure geothermal waters requires visitors to navigate down a very tight ravine, then clamber into the cave using the ropes and carved steps provided. Bathing in Stóragjá is highly discouraged, however, as its beautiful blue colouration is due to dangerous algae. Because of its lack of filtration, it also has unhealthy levels of bacteria such as e-coli from previous bathers.
+
+
+   
+
+
+Samenvatting: 118km – 2u
+Camping Myavatn: 2x2250+1500=6000ISK
+Camping | Vogar Travel Service
+
+
+
+Ma: 14/8
+1.	15km -20min
+De vulkanische regio van Krafla was het laatst actief van 1975 tot 1984. 
+Vanaf het parkeerterrein kan je via een wandelpad naar de explosiekrater Viti. Onderweg heb je mooi zicht op de Krafla centrale, die je tijdens de zomermaanden kan bezoeken. 
+De Viti krater is gevuld met water en ontstond na een vulkaanuitbarsting in 1724. Is er voldoende tijd, maak dan een wandeling naar het kleurrijke Leirhnjúkur. Je kan er over de nog warme lava lopen. Op sommige plaatsen is de lava zelfs nog te heet om aan te raken. Blijf dus op het pad als je geen gesmolten schoenzolen wil
+ 
+
+2.	117 km – 1h30
+Camping Kopasker
+Samenvatting: 132 km – 1h40
+
+
+
+
+Di 15/8
+1.	38km – 30min
+De Ásbyrgi (“godenburcht”) canyon is 3,5 km lang en zo’n 1,1 km breed. De stijle wanden zijn ongeveer 100 meter hoog. In het midden van de canyon kan je de 25 meter 
+hoge rots Eyjan (“het eiland”) beklimmen, vanwaar je een spectaculair zicht over de omgeving hebt. Wanneer je de canyon bezoekt, begrijp je meteen waarom de Elfen Ásbyrgi als hun hoofdstad hebben gekozen. Volgens de legende zou de kloof de hoefafdruk zijn van het paard van vikinggod Odin dat hier struikelde. 
+Reken ongeveer 1,5 uur voor het bezoek aan de canyon. Start je wandelingen vanaf het bezoekerscentrum “Gljúfrastofa”, open van 1 mei tot 30 september. 
+ 
+2.	18km – 15min
+In Hljóðaklettar kan je mooie, zuilvormige rotsformaties vinden en er verdwalen in een labyrint van grotten en rotskastelen. Er is een goed gemarkeerd wandelpad door het gebied dat met de klok meevolgt, en je langs de Tröllid (trollenrots) en de verschillende echorotsen leidt. Voorzie ongeveer 2 uur voor deze wandeling. 
+
+3.	45km – 53min
+De Dettifoss waterval is 44 meter hoog en wel 100 meter breed. Het is de krachtigste waterval van IJsland. Het gebied rond de Dettifoss maakt deel uit van het Jökulsárgljúfur (gletsjerrivierkloof) gebied. 
+Vanaf het parkeerterrein aan de waterval is het ongeveer 1 km wandelen tot aan het uitkijkpunt van de 100 meter brede Dettifoss waterval. 
+Je kan van aan de Dettifoss waterval via een 1,5 km lang wandelpad naar de meer stroomopwaarts gelegen Selfoss waterval (niet te verwarren met Selfoss-stad!). 
+Nog een waterval bezoeken? Iets verder stroomafwaards ten op zichte van Dettifoss ligt de 27 meter hoge Hafragilsfoss waterval. Deze is moeilijker te bereiken, enkel voor avonturiers die over een goede conditie beschikken en enkele steile beklimmingen willen trotseren. 
+
+4.	66km – 1u15
+Camping Möðrudalur/Fjalladýrð, 660 Modhrudalur, Iceland
+Samenvatting: 166km – 3h
+
+
+
+Wo 16/8
+1.	61km – Studlagil
+Stuðlagil (“basaltzuil”) Canyon is werkelijk een adembenemende plaats, hier kan je een echt meesterwerk van de natuur zien. De basaltzuilen openbaarden zich toen een waterkrachtcentrale de stroom van de gletsjerrivier die door de canyon stroomt verminderde en deze veranderde in de kalme, turkooizen rivier. Dit maakt het mogelijk om deze verbazingwekkende basaltkloofformaties, die voorheen onder water stonden, te zien. Het is moeilijk te geloven dat zulke perfecte zuilen door de natuur zijn gemaakt. 
+De 8 km lange route naar de canyon en terug ligt niet op een bewegwijzerd pad, je zal je eigen weg moeten banen. Toch is het de moeite waard om deze verborgen parel te bezoeken. Rij over de grindweg (Jökuldalsvegur) voor ongeveer 14 km en parkeer bij de boerderij van Klaustursel. Het pad ligt direct aan de rechterkant van de brug. 
+Na ongeveer 2 km bereik je een prachtige waterval. Na een stop om de waterval te bewonderen, ga je verder (klimmen over een paar poorten) tot je het einde van het pad bereikt. Ga naar rechts en gaan naar beneden, met de rivier aan je linkerhand, tot aan de brug, en ga dan weer naar rechts op een heel klein pad en volg de weg naar beneden in de canyon. Opgelet voor de gladde rotsen. 
+ 
+2.	99km – 1h20
+Camping Seysdisfjördur
+-	Trisönger (interactieve klanktocht – 20min)
+Samenvatting: 159km – 2h21min
+ 
+Laugavegur, dag één: Landmannalaugar – Meer van Álftavatn
+Voor het eerst in ons leven konden we geen plek vinden op het pad (in feite is het een leugen, want ik kon geen plek vinden in de rij bij de afdaling vanuit Giewont). Voor ons ligt een reis van Duitse gepensioneerden, achter ons een reis van Franse gepensioneerden, met ons een Israëlische familie. En dan zijn er nog de Zwitsers, Belgen en Russen. En American Girl Scouts. Hoe vind je je eigen tempo? Het is voldoende om het tempo van anderen te accepteren en één keer te passeren, in een moment om te worden gepasseerd. En onthoud gezichten, om niet te zeggen voor de miljoenste keer hallo, voor de honderdste keer is een glimlach genoeg. Vooral dat er zoveel te beleven is in Laugavegur!
+ 
+Je kent het obsidiaan lavaveld van Laugahraun al. Vlak achter hem, de laatste blik en camera op de regenboog glinsterende bergen rondom de vlakte met Námskvísl en door genadeloos aanvallen met zwavel solfatary en fumarolen, laten weten dat de vulkaan dommelt, maar hij gaf niet op. Want Landmannalaugur (580 m boven zeeniveau) is een gebied vol vulkanen. Als we rechts het ganzenpad beklimmen hebben we de kleurrijke hellingen van de Brennisteinsalda vulkaan (de laatste uitbarsting van 1961!), links de Blahnukur vulkaan.
+  
+Brennisteinsalda wordt ook wel een zwavelgolf genoemd. Een voor een, blauwe en zwarte lava en as, groene mossen en rode ijzeren rimpeling. Blahnukur angstaanjagend zwart en blauw (de naam betekent letterlijk: blauwe piek, obsidiaan in de zon is blauw) is al enkele honderden jaren niet meer uitgebarsten. Achter hen verschijnen drassige stukken sneeuw op het pad. Ze zijn als wandelen in een zandwoestijn, alleen worden de schoenen nat. Wanneer we de Hrafntinnusker-bergkam bereiken (betekent letterlijk ravenzwart) krijgen we een panorama van IJsland zo ver weg dat de rede het opgeeft.
+ 
+ 
+Het weer laat ons gracieus genieten van het uitzicht. Dan worden we ingehaald door sneeuwvelden afgewisseld met zwarte lavaplekken. Het interval is van het ene vulkanische eiland naar het volgende. In deze eentonigheid is het gemakkelijk om de rokende valleien, de Stórihver-geiser en het melkblauwe hete meer te missen. Sommige beklimmingen kort maar steil worden het beklimmen van een ijstrap. U zou dit gekreun, genot en tegelijkertijd teleurstelling willen horen op de pas op 1070 m boven de zeespiegel met een schuilplaats genaamd als de berg aan de voet waarvan ligt - Hrafntinnusker. Vanaf hier kunt u naar de ijsgrotten gaan of de ryoliet (het is ook gedroogd magma) berg Soeðull (1132 m boven de zeespiegel) beklimmen. Maar dat is als je in een hut of op de camping verblijft. 
+
+Want als je naar Alftavatn gaat, ga dan verder. Er liggen zoveel sneeuwvelden voor je ...
+   
+IJslands Midden-aarde en Alfavatn, zwanenmeer
+Na het passeren van nog een stuk sneeuw denk je dat het de laatste is, maar het is een illusie. Vloekend op de felle zon die weerkaatst op de vuile sneeuw, bereik je een monument dat je eraan herinnert dat het erger kan. Op dit punt stierf een zwerver aan onderkoeling (4). Je knarst je tanden en gaat verder, niet meer zeurend. Uit verschillende holtes stromen zwavelgeurende stromen. De grote vulkanische woestijn lijkt geen einde te hebben, totdat... Nou, deze plek beloont de inspanning van de hele dag. Ga even zitten op Jökultungur. Door je heen een blik op Tolkiens Midden-aarde.
+ 
+Als je naar dit natuurwonder kijkt, begin je het gesprek te begrijpen van een engelachtig paar met Pools, dat je even eerder passeerde, filosofisch discussiërend over wanneer een kus als teder kan worden beschouwd ...
+ 
+ 
+Aan de linkerkant de Kaldaklofsjökull gletsjer, voor u de groene vallei van de rivier de Ljosa, Grashagakvist, Bratthalskvist en het meer van Alfavatn. Naast hem aan de rechterkant is Mount Torfatindar (818 m boven de zeespiegel), aan de linkerkant is Mount Bratthals (763 m boven de zeespiegel). Lake Alfavatn was ooit vol met whooper zwanen (de enige soort zwaan gevonden in IJsland), die werden bejaagd tot 1838. Blijkbaar stopte de jacht toen een van de boeren tijdens zo'n jacht verdronk. Desondanks slaagden we er niet in om de gewenste One te zien, alleen om de steile helling naar het dal af te dalen, de doorwaadbare plaats op de rivier over te steken en een tent op te zetten bij het meer.
+ 
+ 
+Laugavegur, tweede– Markarfljótsgljúfur, one night canyon
+ IJsland is het jongste kind van het Europese continent. Het is op zijn laatst gemaakt en verandert voortdurend. Zo is bij het Alfavatnmeer na afgelopen winter een nieuwe rivier ontstaan. Niet heel diep, een beetje ijzig. Om op blote voeten over te steken. Vlak achter haar een kleine aanloop en nog een doorwaadbare plaats te overwinnen, wederom op blote voeten. Dit is de Bratthalskvist-rivier, waarvan we de sculpturale vaardigheden gisteren bewonderden vanaf een van de mooiste uitzichtpunten op Laugavegur.
+ 
+In Hvanngil staan twee hutten, een schaapskooi uit 1963 en een toeristenherberg, uit 1995. Iets achter de hut wordt de weg geblokkeerd door de Kaldaklofskvísl-rivier. Gelukkig voor de wandelaars werd hier een loopbrug opgetrokken. Auto's moeten de doorwaadbare plaats beneden oversteken. Ik raad aan om de naam van de rivier in de zoekmachine te gooien en wintervideo's en foto's vanaf deze plek te bekijken. Ze zien er geweldig uit. Letterlijk een paar minuten wandelen verder steken we de Blafjallakvisl rivier over in vrij snel water.
+ 
+ 
+Ik kan me echter niet voorstellen dat ik "Nyrðri Emstrur" oversteek zonder brug. Het is een bergstromend beekje dat een paar meter onder de brug valt met een spectaculaire waterval. Een aangename plek voor een korte pauze. Zonder deze rivieren en doorwaadbare plaatsen zou deze dag van de Laugavegur trail behoorlijk saai zijn. Een vlakke vallei vol vulkanisch puin leidt helemaal naar de Botnar-hut. Verborgen op de helling van een berg boven een klein beekje, waarvan de belangrijkste attractie de kloof Markarfljótsgljúfur is.
+ 
+Ongeveer tweeduizend jaar geleden barstte de Katla-vulkaan, vastgelopen door de Mýrdalsjökull-gletsjer, uit en smolt zijn dop een beetje. De enorme watermassa gaf zo'n kracht dat ze in één klap gigantische canyons uithouwden. En dus zou de tweede dag op de Laugavegur trail behoorlijk saai zijn (een van de uitdagingen van de IJslandse paden is het overwinnen van rivieren, maar wanneer het waterniveau vrij laag is, want een beetje boven de knieën, is er geen adrenaline) zo niet voor de Markarfljótsgljúfur canyon. 4 km lang, tot 200 meter diep, gebouwd door de natuur met één slag van een waterborstel. Veelkleurig. En niet op onze route. Maar het was de moeite waard om een paar extra kilometers aan je benen toe te voegen!
+   
+
+Laugavegur, de derde – Porsmork (Thórsmörk / Þórsmörk) op de dag dat we het land van Thor binnengaan
+De Markarfljótsgljúfur canyon is natuurlijk niet alleen mooi, maar blokkeert ook de kortste weg naar Porsmork. Daarom gaat het spoor met een boog om hem heen. Door de kleinere kloof met de Syðri – Emstrur stroom, waarover een brug werd gebouwd en een tweede brug met kettingen aan de oever werd opgehangen! Niet dat ze bijzonder nuttig zijn, maar soms is het moeilijk om aan te voelen wat IJslanders denken dat gevaarlijk is. De volgende kilometers zijn Almenningar, het gebied van voormalige bergweiden. We zitten gevangen: in het westen de kloof Markarfljótsgljúfur, in het oosten de tong van de Merkurjokull gletsjer, de rivier de Thornga (Þröngá) in het zuiden en alles wat we achter onze rug al zijn gepasseerd. In de verte zie je een eenzaam gebouw, een klein groen plekje in het landschap genaamd Kapa, een verlaten boerderij. Voor ons ligt het land van Thor – Þórsmörk.  
+
+Porsmork – het land van goden en IJslanders
+De mythologische Thor, met een warrige baard, rimpels en wilde ogen, houdt een hamer in zijn hand. Hij was de god van storm, donder, landbouw en huwelijk. Blijkbaar was de eerste kolonist op deze plaats Asbjörn Reykretilsson, en hij was het die in de tiende eeuw deze plaats aan deze god wijdde. In Porsmork is er een bos, IJslands, laag, omdat het is samengesteld uit onvolgroeide berken. Een van de weinige bossen die in IJsland groeit. Het werd pas in de negentiende eeuw geplant, omdat de eerdere werd vernietigd door mens en schaap. Tegenwoordig is het een beschermd gebied. De vallei is omgeven door hoge bergen die het beschermen tegen de kou. Twee grote rivieren, Þröngá en Krossá, beschermen bomen tegen schapen (IJslandse schapen lopen vrij rond in heel IJsland en verslinden alles). Zeker, het "woud van Thor" wordt niet geschaad door de bescherming van de goddelijke patroon en de wet. IJslanders komen graag naar Porsmork voor weekenden, het is een van de weinige plaatsen die moeilijk te bereiken zijn voor massa's toeristen en een toevluchtsoord van "IJslandse wildheid". Dit is ook het einde van de Laugavegur trail.
+ 
+ 
+
+Valahnukur | A short loop that starts and ends at Volcano Huts, with breathtaking views over the valley. This hike can easily be done in 1.5-2 hours. The nice thing is, you can also add this to either of the routes below.
+Tindfjöll circle | This was the second route we did and LOVED IT. The loop takes about 5-6 hours where you hike further into the valley bringing you up close and personal to the glaciers. I canHIIIIIGHLYrecommend this hike this was my favorite part of the weekend – unbelievable views!
+
+
