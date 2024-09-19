@@ -72,7 +72,7 @@ def record_until_silence(threshold=0.01, fs=44100, chunk_size=1048, max_silence=
     print(f"Audio opgenomen en opgeslagen in: {temp_file}")
     return temp_file
 
-api_key="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"
+api_key=""
 client = OpenAI(api_key=api_key)
 
 
