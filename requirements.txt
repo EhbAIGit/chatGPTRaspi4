@@ -1,0 +1,11 @@
+pygame
+openai
+matplotlib
+sounddevice
+scipy
+pydub
+requests
+bs4
+icalendar
+pyserial
+keyboard

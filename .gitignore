@@ -1,0 +1,5 @@
+.venv/*
+openaikey.txt
+willem.txt
+presentation.pptx
+/__pycache__

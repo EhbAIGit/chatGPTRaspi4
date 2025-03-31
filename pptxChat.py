@@ -9,6 +9,8 @@ import time
 import RPi.GPIO as GPIO
 import serial
 from pydub import AudioSegment
+from pptx import Presentation
+
 
 # Initialiseer GPIO
 GPIO.setmode(GPIO.BCM)
@@ -21,6 +23,21 @@ ser = serial.Serial('/dev/ttyUSB0', 9600)
 
 bericht = "pftpftpftpftpft"
 ser.write(bericht.encode()) 
+
+
+# Functie om tekst uit PowerPoint te halen
+def extract_text_from_pptx(pptx_file):
+    prs = Presentation(pptx_file)
+    ppt_text = ""
+    
+    # Loop door de dia's en verzamel tekst
+    for slide in prs.slides:
+        for shape in slide.shapes:
+            if hasattr(shape, "text"):
+                ppt_text += shape.text + "\n"
+    
+    return ppt_text
+
 
 
 
@@ -85,12 +102,16 @@ def record_until_silence(threshold=0.01, fs=44100, chunk_size=1048, max_silence=
     print(f"Audio opgenomen en opgeslagen in: {temp_file}")
     return temp_file
 
-#api_key="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"
 client = OpenAI()
 
 
 with open('/home/pi/Documents/chatGPTRaspi4/basicContext.txt', 'r') as file:
-    inhoud = file.read()
+    # inhoud = file.read()
+
+    # PowerPoint-bestand inladen als context
+    pptx_file = "presentation.pptx"  # Vervang dit door jouw PowerPoint-bestand
+    inhoud = extract_text_from_pptx(pptx_file)
+
 
 initial_messages = [
     {"role": "system", "content": inhoud},
@@ -171,3 +192,9 @@ try:
         messages.append({"role": "assistant", "content": completion.choices[0].message.content})
 finally:
     GPIO.cleanup()
+
+
+
+
+
+
